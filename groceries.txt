@@ -3,4 +3,7 @@ tomatoes
 butter
 eggs
 toilet paper
+salt
+pepper
+cheese
 
