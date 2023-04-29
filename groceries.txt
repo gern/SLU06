@@ -3,4 +3,5 @@ tomatoes
 butter
 eggs
 toilet paper
+yoghurt
 
